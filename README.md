@@ -4,10 +4,9 @@ Operating System: linux
 
 Dependeicies:
 1. Install dlib
-&nbsp;
-&nbsp;
-&nbsp;
-<br>
+   <br>
+   &nbsp;
+   &nbsp;
    https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf
    
 2. Install cmake 
